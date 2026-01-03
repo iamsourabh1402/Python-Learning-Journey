@@ -1,11 +1,4 @@
 
-# print ("Hello Sourabh, Lets begin")
-# calculate area of circle
-import math
-
-#radius = float(input("Enter the radius of the circle: "))
-#area = math.pi * math.pow(radius,2)
-#print(f"The area of the circle with radius {radius} is: {round(area,2)}")
 
 #lets build a simple calculator using If else
 num1 = int(input("Enter your first number "))
