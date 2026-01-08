@@ -8,3 +8,6 @@ elif temp > 10 and temp < 40 :
     print ("Its a beautiful weather")
 else:
     print ("Its Dooms Day")
+
+
+ 
