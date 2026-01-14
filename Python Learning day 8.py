@@ -1,5 +1,5 @@
 # lets learn while loops
-food = input ("Enter your fav food (press q to quit)")
+#food = input ("Enter your fav food (press q to quit)")
 # while age <= 0:
  #    print ("Age cannot be negative")
  #   age = int(input ("Enter your correct age")) 
@@ -9,8 +9,8 @@ food = input ("Enter your fav food (press q to quit)")
 
 
 
-while not food == "q":
-    print(f"I like {food} too!")
-    food = input("Enter your another fav food (press q to quit)")
-
-print("Thank you for sharing your fav food!")
+i= int(input("Eneter i"))
+while i<7:
+    print(f"i is {i}")
+    i+=1
+ 
